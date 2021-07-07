@@ -1,0 +1,46 @@
+.actual-content
+{
+    background: rgba(24, 23, 23, 0.8);
+}
+
+section
+{
+    margin-top: 100px;
+    background: rgb(196, 195, 195);
+}
+
+h1{
+    padding-top: 100px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 2.5em;
+    color: rgb(187, 180, 180);
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 2.5em;
+    color: rgb(179, 20, 25);
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.warrantyFrom {
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+div#button {
+    text-align: center;
+    width: 100%;
+}
+
+input[type='submit'], input[type='button'] {
+    font-size: 1.2em;
+    padding: 5px;
+    margin: 15px;
+    background: skyblue;
+}

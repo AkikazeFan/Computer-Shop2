@@ -1,0 +1,57 @@
+.actual-content
+{ padding-top: 50px;
+    background: rgba(141, 127, 127, 0.8);
+}
+
+  h3{
+      font-family: 'Courier New';
+      text-align: center;
+      text-decoration: underline;
+      font-size: 1.8em;
+      color: black;
+      padding-bottom: 20px;
+  }
+  h1{
+      text-align: center;
+      color: black;
+      padding: 50px;
+      font-size: 3em;
+  }
+  li{
+      font-size: larger;
+      color: black;
+
+  }
+  p{
+    color: black;
+  }
+
+
+.container{
+    display: flex;
+    padding-bottom: 50px;
+    
+}
+ .divclass{
+    
+     
+    background: rgba(87, 86, 86, 0.8);
+     height: 550px;
+     width: 50%;
+     margin: 20px;
+     padding: 20px;
+ 
+ }
+
+ .divwarranty{
+     
+    
+    background: rgba(87, 86, 86, 0.8);
+     height: 550px;
+     width: 50%;
+     margin: 20px;
+     padding: 20px;
+ }
+
+ 
+ 

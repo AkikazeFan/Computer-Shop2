@@ -1,0 +1,36 @@
+.actual-content
+{
+    background: rgba(24, 23, 23, 0.8);
+}
+
+.success{
+    margin-top: 100px;
+    text-align: center;
+    height: 500px;
+    color:rgb(199, 194, 194);
+    padding: 10px;
+}
+
+.success h1{
+    padding: 10px;
+}
+
+.success hr{
+    margin: auto;
+    border-width: 0px;
+    height: 2px;
+    background-color:rgb(168, 163, 163);
+    width: 550px;
+}
+
+.success p
+{
+    padding: 40px;
+}
+
+.success a{
+    text-decoration: none;
+    color:rgb(159, 115, 177);
+    
+    font-family: monospace;
+}
